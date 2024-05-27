@@ -8,7 +8,7 @@
     - c#, unity and blender
 
 ## Introduction
-    -I am a student studying information and communication technology to become a game industry software developer.
+    -I am a student studying information and communication technology to become a game developer.
 
 ## Skills
     - Learning c#, Unity and Blender for game development.
