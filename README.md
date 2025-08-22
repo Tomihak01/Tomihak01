@@ -1,7 +1,6 @@
 ## Hi there, I'm Tomi👋
 
 ## I’m currently working on 
-- Onionboy3D (enemy models and enemy codes)
 - Edora2D https://thetomgamer.itch.io/edora2d (Created everything from code to graphics)
  
 ## I’m currently learning 
